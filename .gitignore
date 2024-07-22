@@ -1,0 +1,5 @@
+.terraform
+terraform.tfstate
+.terraform.tfstate.lock.info
+ privatekey.txt
+ ec2key.ppk
